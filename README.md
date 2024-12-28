@@ -1,2 +1,3 @@
-# bookbot
-Python project to read books and provide statistics
+# BookBot
+
+BookBot is my first project!
